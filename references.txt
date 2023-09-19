@@ -1,0 +1,5 @@
+https://learn.microsoft.com/en-us/windows/win32/winsock/complete-server-code
+https://www.w3schools.com/js/js_popup.asp
+https://www.tutorialsteacher.com/javascript/display-popup-message-in-javascript
+https://github.com/AntnPantnMantn/youareanidiot.org-original-source-code.git 
+https://modelviewer.dev/
